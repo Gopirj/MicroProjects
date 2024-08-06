@@ -1,0 +1,44 @@
+{
+  "travel": [
+    {
+      "id": "101",
+      "travelName": "gopi",
+      "contact": "940349032",
+      "travelPlace": "ooty",
+      "travelType": "car",
+      "travelStart": "23-3-2024",
+      "travelEnd": "1-4-2024",
+      "travelRoom": 9
+    },
+    {
+      "id": "2",
+      "travelName": "karthikeyan",
+      "travelContact": "4242234",
+      "travelPlace": "chennai",
+      "travelType": "car",
+      "travelStart": "2024-08-07",
+      "travelEnd": "2024-08-10",
+      "travelRoom": 3
+    },
+    {
+      "id": "3",
+      "travelName": "hari",
+      "travelContact": "3234234234",
+      "travelPlace": "ooty",
+      "travelType": "bike",
+      "travelStart": "2024-08-09",
+      "travelEnd": "2024-08-12",
+      "travelRoom": 2
+    },
+    {
+      "id": "4",
+      "travelName": "harish",
+      "travelContact": "3242342",
+      "travelPlace": "salem",
+      "travelType": "car",
+      "travelStart": "2024-08-14",
+      "travelEnd": "2024-08-18",
+      "travelRoom": 4
+    }
+  ]
+}
